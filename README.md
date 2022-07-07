@@ -1,7 +1,9 @@
 # KC_House predictions
 
 I use linear regression to analyze house prices in northwestern countries
+
 #Business problem -A stakeholder requires to guide home sellers on how to make the houses more valuable.
+
 #Business Question - What can home sellers do to improve house value
 
 ## REQUIREMENTS
