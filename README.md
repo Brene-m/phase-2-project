@@ -8,8 +8,8 @@ I use linear regression to analyze house prices in northwestern countries
 
 ## REQUIREMENTS
 
-Your Jupyter Notebook should demonstrate an iterative approach to modeling. This means that you begin with a basic model, evaluate it, and then provide justification for and proceed to a new model. After you finish refining your models, you should provide 1-3 paragraphs discussing your final model - this should include interpreting at least 3 important parameter estimates or statistics.
-Your deliverables should explicitly address each step of the data science process. Refer to the Data Science Process lessonLinks to an external site.
+The Jupyter Notebook should demonstrate an iterative approach to modeling. It begin with a basic model, and then provides justification. The provides 1-3 paragraphs discussing the final model.
+The deliverables should explicitly address each step of the data science process.
 
 ## Data Used
 
