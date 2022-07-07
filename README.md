@@ -63,7 +63,8 @@ This project uses the King County House Sales dataset, which can be found in kc_
 ## Installation
 
 Install plotly with:
-' pip install plotly '
+
+'pip install plotly'
 
 ## Feedback
 
