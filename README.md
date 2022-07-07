@@ -77,5 +77,7 @@ I am a data science student at Moringa School
 ## Lesson learnt
 
 -Data modelling
+
 -Data analysis
+
 -Researching
